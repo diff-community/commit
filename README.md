@@ -1,6 +1,6 @@
-# 🌍 Commit Africa
+# 🌍 Commit
 
-An open record of projects in Africa at the intersection of technology and social good.
+An open record of projects in South Africa at the intersection of technology and social good.
 
 ### Projects
 
